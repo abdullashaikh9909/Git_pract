@@ -1,0 +1,9 @@
+{
+	"name": "sample-hr-factory",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35835ae6-9459-45bb-b405-9a1c455d5fcc",
+		"tenantId": "8c21ba9c-6236-4f6b-9434-2333e32f58d7"
+	}
+}
